@@ -1,0 +1,6 @@
+{
+  "name": "com.lgsi.simcheck.service",
+  "version": "1.0.0",
+  "description": "SimCheck test JS service",
+  "main": "service.js"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "com.lgsi.simcheck.service",
+  "description": "SimCheck test JS service",
+  "services": [
+    {
+      "name": "com.lgsi.simcheck.service",
+      "description": "SimCheck test JS service",
+      "commands": [
+        { "name": "hello", "public": "true" },
+        { "name": "echo", "public": "true" },
+        { "name": "info/version", "public": "true" },
+        { "name": "ticks", "public": "true" },
+        { "name": "lunaTime", "public": "true" }
+      ]
+    }
+  ]
+}

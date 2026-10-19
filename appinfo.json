@@ -1,0 +1,18 @@
+{
+  "id": "com.lgsi.simcheck",
+  "title": "SimCheck",
+  "type": "web",
+  "main": "app/index.html",
+  "icon": "app/icon.png",
+  "largeIcon": "app/largeIcon.png",
+  "version": "1.0.0",
+  "vendor": "LGSI",
+  "appDescription": "Exercises every API, key, event and setting the webOS TV Simulator provides.",
+  "bgColor": "#101418",
+  "iconColor": "#101418",
+  "splashColor": "#101418",
+  "resolution": "1920x1080",
+  "disableBackHistoryAPI": true,
+  "supportTouchMode": "full",
+  "supportPortraitMode": true
+}
